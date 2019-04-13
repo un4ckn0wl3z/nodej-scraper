@@ -1,0 +1,25 @@
+[
+    {
+        "title": "A Good Day to Die Hard (2013)",
+        "rating": "5.3",
+        "img_url": "https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "total_rating": "187,313",
+        "release_date": "14 February 2013 (USA)",
+        "genres": [
+            "Action",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Avatar (2009)",
+        "rating": "7.8",
+        "img_url": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "total_rating": "1,034,664",
+        "release_date": "17 December 2009 (Thailand)",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    }
+]
